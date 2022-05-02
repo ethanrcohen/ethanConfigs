@@ -1,0 +1,11 @@
+alias gut="git"
+alias got="git"
+
+alias gst="git status"
+alias gcaane="git commit -a --amend --no-edit"
+alias gpr="git pull --rebase"
+alias gri="git rebase --interactive"
+alias gcontinue="git rebase --continue"
+alias gco="git checkout"
+
+alias vscode="Open -a 'Visual Studio Code'"
